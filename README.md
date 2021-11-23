@@ -31,4 +31,13 @@ In all above projects, we have to first prepare dataset for training and use any
 ![Gold 7](https://user-images.githubusercontent.com/88960898/142983747-214e4862-7ace-41ad-b750-8e1cab7734ca.png)
 ![Gold 8](https://user-images.githubusercontent.com/88960898/142983752-fc30413e-9d24-4e7d-b704-fe48594376a0.png)
 ![Gold 9](https://user-images.githubusercontent.com/88960898/142983756-7adf5ce2-7ea0-4907-87fe-5770b37727c5.png)
-
+## Credit Card Fraud Detetction
+![CC 1](https://user-images.githubusercontent.com/88960898/142991565-cf9c96aa-78e0-4b79-bf52-459be45ca375.png)
+![CC 2](https://user-images.githubusercontent.com/88960898/142991581-faf572fa-5cdb-461d-986c-e392a8e6234d.png)
+![CC 3](https://user-images.githubusercontent.com/88960898/142991596-16490d16-7200-4435-9fec-4c143ed15533.png)
+![CC 4](https://user-images.githubusercontent.com/88960898/142991607-17ba4f6c-2db5-49a1-88f9-07423699ab38.png)
+![CC 5](https://user-images.githubusercontent.com/88960898/142991621-3d435c60-7b00-4ad7-8e55-4aeb683cccae.png)
+![CC 6](https://user-images.githubusercontent.com/88960898/142991632-f12f1b0e-8b0f-4248-b23a-b71c3e494ad2.png)
+## Made By
+### Nandini Gore
+### Praisy Ramannagiri
